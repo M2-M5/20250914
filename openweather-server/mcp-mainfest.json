@@ -1,0 +1,18 @@
+{
+  "name": "openweather-server",
+  "description": "Fetches current weather data using OpenWeather API",
+  "version": "1.0.0",
+  "endpoints": {
+    "get_current_weather": {
+      "input": {
+        "q": "string",
+        "units": "string"
+      },
+      "output": {
+        "temperature": "number",
+        "description": "string",
+        "location": "string"
+      }
+    }
+  }
+}
