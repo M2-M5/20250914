@@ -1,0 +1,7 @@
+# MCP Benchmark Log
+
+## 2025-09-14
+
+- Context7 and Cline installed and validated across devices
+- Output comparisons saved as plain text
+- Roo Code integration tested — recovery mode triggered on Surface
